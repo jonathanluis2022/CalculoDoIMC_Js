@@ -1,0 +1,48 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background: rgb(138, 138, 210);
+}
+
+h1 {
+    color: brown;
+    height: 10rem;
+    background: rgb(103, 103, 156);
+}
+
+.grenvalido {
+    background: rgba(78, 235, 109, 0.697);
+    padding: 2rem;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.redfalse {
+    background: rgb(230, 55, 55);
+    padding: 2rem;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+form {
+    margin-top: 20px;
+}
+
+input {
+    margin: 10px;
+    padding: 10px;
+    font-size: 1rem;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+button:hover {
+    background-color: #45a049;
+}
